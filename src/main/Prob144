@@ -13,6 +13,11 @@
  *     }
  * }
  */
+
+
+ // preOrder
+
+
 class Solution {
 
     public static void tree(TreeNode root, List<Integer> ll){
